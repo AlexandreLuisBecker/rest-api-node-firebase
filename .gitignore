@@ -1,0 +1,5 @@
+# Directory dependencies
+node_modules/
+
+# DotEnv eviroment viriables file
+.env
