@@ -33,7 +33,7 @@ module.exports = {
     firebaseConfig : {
         apiKey : API_KEY,
         authDomain : AUTH_DOMAIN,
-        project_id : PROJECT_ID,
+        projectId : PROJECT_ID,
         storageBucket : STORAGE_BUCKET,
         messagingSenderId : MESSAGING_SENDER_ID,
         appId: APP_ID
